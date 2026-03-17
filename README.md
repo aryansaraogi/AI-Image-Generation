@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎨 AI Image Generator – Full Stack AI Art Sharing Platform
 
 A **full-stack AI-powered web application** that allows users to generate images from text prompts and share them with a community.
@@ -243,3 +244,6 @@ If you like this project:
 * Give it a ⭐ on GitHub
 * Share it
 * Contribute 🚀
+=======
+
+>>>>>>> f221cd20d0e925fa7f86a0756a111cd19c76774d
